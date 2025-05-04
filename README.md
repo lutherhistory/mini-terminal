@@ -6,8 +6,8 @@
 
 ### ✨ Features
 - Basic command input/output
-- Simple built-in commands (e.g., `clear`, `help`, `exit`)
-- Cross-platform (Windows/Linux)
+- Simple built-in commands (e.g., `clear`, `help`, `exit`, `New Commands are Comming Later...`)
+- Cross-platform (Linux Only)
 - Easy to extend and customize
 
 ---
